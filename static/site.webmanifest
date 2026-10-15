@@ -1,0 +1,8 @@
+{
+  "name": "FastAPI Blog",
+  "short_name": "FastAPI Blog",
+  "icons": [],
+  "theme_color": "#527c9f",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
